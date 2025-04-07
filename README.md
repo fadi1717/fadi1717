@@ -63,7 +63,7 @@ I'm passionate about:
 - 💼 **LinkedIn:** [Visit My LinkedIn](https://www.linkedin.com/in/fahad-ilyas-108463158/)  
 - 📱 **WhatsApp:** [Chat with Me](https://wa.me/qr/I27U6GE6VF6HP1)
 - 📲 **Scan QR Code to Chat on WhatsApp:**  
-  ![WhatsApp QR Code](Image/Fahad_Whatsapp.jpg)
+  ![WhatsApp QR Code](Image/Fahad_Whatsapp.jpeg)
 ---
 
 <h2 align="left">I work with</h2>
