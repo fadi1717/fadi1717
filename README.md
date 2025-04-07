@@ -59,9 +59,9 @@ I'm passionate about:
 
 ## 📫 Let's Connect!
 
-- 📧 **Email:** [f.ilyas1719@gmail.com]  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/fahad-ilyas-108463158/]  
-- 💻 **GitHub:** [https://github.com/fadi1717]
+- 📧 **Email:** [Email Me](f.ilyas1719@gmail.com)  
+- 💼 **LinkedIn:** [Visit My Linkedin](https://www.linkedin.com/in/fahad-ilyas-108463158/)  
+- 💻 **GitHub:** [Visit My Portfolio](https://github.com/fadi1717)
 
 ---
 
