@@ -62,7 +62,8 @@ I'm passionate about:
 - 📧 **Email:** [Email Me](f.ilyas1719@gmail.com)  
 - 💼 **LinkedIn:** [Visit My LinkedIn](https://www.linkedin.com/in/fahad-ilyas-108463158/)  
 - 📱 **WhatsApp:** [Chat with Me](https://wa.me/qr/I27U6GE6VF6HP1)
-
+- 📲 **Scan QR Code to Chat on WhatsApp:**  
+  ![WhatsApp QR Code](path/to/whatsapp-qrcode.png)
 ---
 
 <h2 align="left">I work with</h2>
