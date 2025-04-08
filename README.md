@@ -45,7 +45,7 @@ This shift not only reflected my initiative but also marked the beginning of my 
 
 **Languages:** Python, SQL, HTML, CSS, Dash Bootstrap Components, VBA, DAX  
 **Database & Cloud:** AWS DBs, MySQL, SQLite, SQL Server, Google Sheets, Google Drive, PostgreSQL  
-**Frameworks & Tools:** MS Excel, Power BI, GitHub, Git, Git Bash, Jupyter Notebooks, Anaconda, VS Code, Visual Studio  
+**Frameworks & Tools:** MS Excel, Power BI, GitHub, Git, Git Bash, Jupyter Notebooks,QGIS,Anaconda, VS Code, Visual Studio  
 
 ## 🐍 Most Used Python Libraries
 
@@ -82,6 +82,7 @@ This shift not only reflected my initiative but also marked the beginning of my 
 - `bokeh` – interactive dashboards  
 - `missingno` – visualize missing data  
 - `folium` – map visualizations  
+- `mapbox` – map visualizations  
 - `keplergl` – geospatial large-scale plotting  
 
 ### 🗺️ Geospatial & Mapping
