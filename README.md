@@ -31,6 +31,8 @@ This shift not only reflected my initiative but also marked the beginning of my 
 ## 🛠 Tools & Technologies
 
 **Languages:** Python, SQL, Excel  
+**Database & Cloud:** PostgreSQL, MySQL, Google Sheets, Google Drive APIs  
+**Other Tools:** Git, Jupyter, Power BI  
 **Libraries & Frameworks:** 
 - Pandas
 - NumPy
@@ -53,8 +55,6 @@ This shift not only reflected my initiative but also marked the beginning of my 
 - google.genai
 - aisuite
   
-**Database & Cloud:** PostgreSQL, MySQL, Google Sheets, Google Drive APIs  
-**Other Tools:** Git, Jupyter, Power BI  
 
 ---
 
