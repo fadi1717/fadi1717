@@ -43,31 +43,63 @@ This shift not only reflected my initiative but also marked the beginning of my 
 
 ## 🛠 Tools & Technologies
 
-**Languages:** Python, SQL, Excel  
-**Database & Cloud:** PostgreSQL, MySQL, Google Sheets, Google Drive APIs  
-**Other Tools:** Git, Jupyter, Power BI  
-**Libraries & Frameworks:** 
-- Pandas
-- NumPy
-- scipy
-- statsmodels
-- pmdarima
-- Scikit-learn
-- Matplotlib
-- mysql
-- json
-- kml
-- shapely
-- sqlite3
-- mapbox
-- apscheduler
-- email
-- dash
-- plotly
-- google.colab
-- google.genai
-- aisuite
-  
+**Languages:** Python, SQL, HTML, CSS, Dash Bootstrap Components, VBA, DAX  
+**Database & Cloud:** AWS DBs, MySQL, SQLite, SQL Server, Google Sheets, Google Drive, PostgreSQL  
+**Frameworks & Tools:** MS Excel, Power BI, GitHub, Git, Git Bash, Jupyter Notebooks, Anaconda, VS Code, Visual Studio  
+
+## 🐍 Most Used Python Libraries
+
+### 🧮 Data Manipulation & Analysis
+- `pandas` – dataframes and wrangling  
+- `numpy` – numerical computing  
+- `polars` – fast DataFrame library  
+- `datatable` – large-scale data handling  
+- `pyjanitor` – cleaner pandas pipelines  
+- `json` – JSON handling  
+- `sqlite3` – SQLite DB operations  
+
+### 📊 Statistical & Time Series Analysis
+- `scipy` – scientific computing  
+- `statsmodels` – statistical tests and models  
+- `pmdarima` – auto ARIMA for time series  
+
+### 🤖 Machine Learning & AI
+- `scikit-learn` – classic ML models  
+- `xgboost` – gradient boosting  
+- `lightgbm` – fast and memory-efficient boosting  
+- `catboost` – boosting with categorical support  
+- `tensorflow` – deep learning  
+- `keras` – high-level neural networks  
+- `transformers` – Hugging Face NLP models  
+- `optuna` – hyperparameter optimization  
+
+### 📈 Visualization & Dashboards
+- `matplotlib` – 2D plotting  
+- `dash` – web apps for data  
+- `plotly` – interactive plots  
+- `seaborn` – statistical plots  
+- `altair` – declarative visualizations  
+- `bokeh` – interactive dashboards  
+- `missingno` – visualize missing data  
+- `folium` – map visualizations  
+- `keplergl` – geospatial large-scale plotting  
+
+### 🗺️ Geospatial & Mapping
+- `shapely` – geometric operations  
+- `mapbox` – map visualization  
+- `kml` – KML file processing  
+- `geopy` – geocoding and distances  
+- `geopandas` – geospatial extension for pandas  
+- `osmnx` – OpenStreetMap street networks  
+- `contextily` – basemaps with geopandas  
+
+### ⚙️ Automation & Utilities
+- `apscheduler` – job scheduling  
+- `email` – automation & alerts  
+- `pyautogui` – GUI automation  
+- `openpyxl` – Excel operations  
+- `xlwings` – Excel and Python integration  
+- `python-docx` – MS Word automation  
 
 ---
 
