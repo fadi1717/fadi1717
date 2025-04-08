@@ -27,6 +27,19 @@ After developing a strong understanding of retail research terminologies, I soug
 This shift not only reflected my initiative but also marked the beginning of my journey into applied data science.
 
 ---
+## 📊 Core Skills
+
+- Retail Research & Data Quality Control  
+- Sample Design & KPI Monitoring  
+- Process Automation & Reporting  
+- Custom Script Development in Python
+- Descriptive and Inferential Statistics
+- Machine Learning
+- Generative AI
+- Geospatial Mapping (Town Centroid Estimation)  
+
+
+---
 
 ## 🛠 Tools & Technologies
 
@@ -55,20 +68,6 @@ This shift not only reflected my initiative but also marked the beginning of my 
 - google.genai
 - aisuite
   
-
----
-
-## 📊 Core Skills
-
-- Retail Research & Data Quality Control  
-- Sample Design & KPI Monitoring  
-- Process Automation & Reporting  
-- Custom Script Development in Python
-- Descriptive and Inferential Statistics
-- Machine Learning
-- Generative AI
-- Geospatial Mapping (Town Centroid Estimation)  
-
 
 ---
 
