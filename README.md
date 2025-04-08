@@ -31,7 +31,28 @@ This shift not only reflected my initiative but also marked the beginning of my 
 ## 🛠 Tools & Technologies
 
 **Languages:** Python, SQL, Excel  
-**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn  
+**Libraries & Frameworks:** 
+- Pandas
+- NumPy
+- scipy
+- statsmodels
+- pmdarima
+- Scikit-learn
+- Matplotlib
+- mysql
+- json
+- kml
+- shapely
+- sqlite3
+- mapbox
+- apscheduler
+- email
+- dash
+- plotly
+- google.colab
+- google.genai
+- aisuite
+  
 **Database & Cloud:** PostgreSQL, MySQL, Google Sheets, Google Drive APIs  
 **Other Tools:** Git, Jupyter, Power BI  
 
@@ -42,8 +63,12 @@ This shift not only reflected my initiative but also marked the beginning of my 
 - Retail Research & Data Quality Control  
 - Sample Design & KPI Monitoring  
 - Process Automation & Reporting  
+- Custom Script Development in Python
+- Descriptive and Inferential Statistics
+- Machine Learning
+- Generative AI
 - Geospatial Mapping (Town Centroid Estimation)  
-- Custom Script Development in Python  
+
 
 ---
 
